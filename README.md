@@ -209,5 +209,4 @@ Deploy as a REST API
 Project Author
 
 Developed by: Nishanth Thala
-Role: Generative AI Engineer
-Location: Tamil Nadu, India
+
